@@ -1,0 +1,1 @@
+{"name":"Local: solution","url":"d:\\Problem Solving\\LeetCode 75\\solution.java","tests":[{"id":1760424459591,"input":"abc\npqr","output":"apbqcr"},{"id":1760424721609,"input":"ab\npqrs","output":"apbqrs"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem Solving\\LeetCode 75\\solution.java","group":"local","local":true}
