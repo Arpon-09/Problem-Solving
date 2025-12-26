@@ -6,11 +6,23 @@ public class A_Shizuku_Hoshikawa_and_Farm_Legs {
 
         int T = sc.nextInt();
 
-        while (T-- > 0) {
+        while (T--> 0) {
             int n = sc.nextInt();
-            System.out.println((n % 2 == 1) ? 0 : (n / 4 + 1));
+
+            if (n % 2 != 0) {
+                System.out.println("0");
+            } else if (n == 2) {
+                System.out.println("1");
+            } else if (n == 4) {
+                System.out.println("2");
+            } else if (n==6) {
+                System.out.println("2");
+            } else  {
+                int sum = n / 4;
+                int summ = sum + 1;
+                System.out.println(summ );
+            } 
         }
-        sc.close();
     }
     
 }
