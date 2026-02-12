@@ -1,1 +1,0 @@
-{"name":"Local: frequency","url":"d:\\Problem Solving\\SelfProblems\\frequency.java","tests":[{"id":1760779169864,"input":"10 5\n1 2 3 4 5 3 2 1 5 3\n3\n1 3\n2 4\n4 5","output":"7\n6\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem Solving\\SelfProblems\\frequency.java","group":"local","local":true}
